@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with the App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Its a single page client side application that shows the compression map graph.
+Run the following commands to get started with the app.
 
 In the project directory, you can run:
 
